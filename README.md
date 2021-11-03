@@ -1,3 +1,9 @@
+# Animated PacMen
+## Create as many PacMen as you can!!
+<br>
+<img src = "screenshot.png" width = "300"/>
+
+
 Title: Animated PacMen
 
 Description: I created a couple buttons. One button is to create a Pacman, and the other button is to make Pacman move across the screen. You can create as many Pacmen as you want by clicking the button.
